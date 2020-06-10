@@ -7,6 +7,7 @@ namespace CodeHub.WebViews
 {
     public class Comment
     {
+        # random comment
         public string AvatarUrl { get; }
 
         public string Name { get; }
